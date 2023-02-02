@@ -1,0 +1,4 @@
+-- before launching the app, you have to upload it's database in xampp's mysql folder using this following path : 
+    1)C:\program files\xampp\mysql>data
+    
+    2) unzip the file mysql_data and put the folder 'data' in the path above.
